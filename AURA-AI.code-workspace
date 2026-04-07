@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "AURA-AI"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AURA-AI"
+	}
+}
