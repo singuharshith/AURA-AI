@@ -337,7 +337,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## 🙋 Support & Questions
 
-- 📧 **Email**: harshith@example.com
+- 📧 **Email**: singuharshith0@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/singuharshith/AURA-AI/issues)
 - 📚 **Documentation**: Check the [docs](./docs) folder
 - 💬 **Discussions**: Join our community discussions
